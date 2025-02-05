@@ -1,0 +1,8 @@
+numpy==2.1.3
+pandas
+matplotlib==3.9.2
+seaborn
+joblib
+scipy
+jupyter
+jupyterlab
